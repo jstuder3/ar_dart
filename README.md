@@ -6,6 +6,8 @@ Augmented Reality makes it possible to play Darts like never before, for example
 
 Below is a link to a demo video as well as a screenshot from the game.
 
+[Link to demo video](https://polybox.ethz.ch/index.php/s/ivZ7Rxx2sWFquVf)
+
 ![final_game](https://user-images.githubusercontent.com/87820315/212543088-0ed74c9a-53cf-476d-8dab-b45ed68c41e4.png)
 
-[Demo video](https://polybox.ethz.ch/index.php/s/ivZ7Rxx2sWFquVf)
+
